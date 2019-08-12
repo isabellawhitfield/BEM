@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  paddding:
+  box-sizing:border-box;
+}
+body {
+  background: light-blue;
+}
+.member__heading{
+  Form-size: 35px;
+  color: blue;
+  margin: 50px;
+}
+.member__text{
+  background: blue;
+
+}
+.member__label{
+  font-size: 20px;
+  margin: 50px;
+  colour: blue;
+}
